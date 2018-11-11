@@ -1,6 +1,20 @@
 # WordFilter_4_IntervewProject_killuplus300-at-gmail.com
 
 
+#### Patricia Trie ####
+![](https://i.imgur.com/8LKCr0t.png) <br/>
+*from Wikipedia*
+<br/>
+<br/>
+<br/>
+#### Tenary Trie ####
+![](https://i.imgur.com/8LKCr0t.png) <br/>
+*from https://www.geeksforgeeks.org/ternary-search-tree/*
+
+| Syntax      | Description | Test Text     |<br/>
+| :---        |    :----:   |          ---: |<br/>
+| Header      | Title       | Here's this   |<br/>
+| Paragraph   | Text        | And more      |<br/>
 ## Purpose ##
 The purpose of this project is making a word filter system for dialogs that have length around 100. And the total filter cases more than 120K with arbitrary length.  
 
