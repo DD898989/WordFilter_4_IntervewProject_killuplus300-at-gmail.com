@@ -1,10 +1,10 @@
 # WordFilter_4_IntervewProject_killuplus300-at-gmail.com
 
-| Tables        | Are           | Cool  |<br/>
-| ------------- |:-------------:| -----:|<br/>
-| col 3 is      | right-aligned | $1600 |<br/>
-| col 2 is      | centered      |   $12 |<br/>
-| zebra stripes | are neat      |    $1 |<br/>
+|           	| Time          | Space    |
+| ------------- |:-------------:| --------:|
+| Normal        | O(K*L)        | O(N*L*R) |
+| Redis         | O(L)          | O(N*L*L) |
+| Tenary        | O(K*(L+log N))| O(N*L)   |
 
 There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the 
