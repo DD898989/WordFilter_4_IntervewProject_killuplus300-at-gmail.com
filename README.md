@@ -2,9 +2,9 @@
 
 |           	| Time          | Space    |
 | ------------- |:-------------:| --------:|
-| Normal        | O(K*L)        | O(N*L*R) |
-| Redis         | O(L)          | O(N*L*L) |
-| Tenary        | O(K*(L+log N))| O(N*L)   |
+| Normal        | `O(K*L)`        | `O(N*L*R)` |
+| Redis         | `O(L)`          | `O(N*L*L)` |
+| Tenary        | `O(K*(L+log N))`| `O(N*L)`   |
 
 There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the 
