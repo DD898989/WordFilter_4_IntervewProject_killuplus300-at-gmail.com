@@ -1,6 +1,6 @@
 # WordFilter_4_IntervewProject_killuplus300-at-gmail.com
 ## Purpose ##
-The purpose of this project is making a word filter system for dialogs that have length around 100. And the total filter cases more than 200K with arbitrary length in any languages.  
+The purpose of this project is making a word filter system for dialogs that have length around 100. And the total filter cases more than 200K with arbitrary lengthes in any language.  
 
 
 ## Complexity Evaluation ##
