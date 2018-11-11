@@ -1,6 +1,6 @@
 # WordFilter_4_IntervewProject_killuplus300-at-gmail.com
 
-|           	| Time          | Space    |
+|           	|Time          |Space    |
 | ------------- |:-------------:| --------:|
 | Normal        | `O(K*L)`        | `O(N*L*R)` |
 | Redis         | `O(L)`          | `O(N*L*L)` |
