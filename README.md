@@ -45,7 +45,7 @@ R: size of alphabet<br/>
 
 <br/>
 
-***Normal Trie*** ,although with time complexity `O(N*L)`, but K is depending on the dialog length( ~100), and the size of alphabet `R` can be set by us, so this project ***is implemented by Normal Trie***
+***Normal Trie*** ,although with time complexity `O(K*L)`, but K is depending on the dialog length( ~100), and the size of alphabet `R` can be set by us, so this project ***is implemented by Normal Trie***
 
 <br/>
 
