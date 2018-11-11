@@ -19,12 +19,12 @@ The purpose of this project is making a word filter system for dialogs that have
 <br/>
 #### 3. Tenary Trie ####
 ![](https://i.imgur.com/Ky4ItGl.png) <br/>
-*from https://www.geeksforgeeks.org/ternary-search-tree/*<br/>
+*from https://www.geeksforgeeks.org/ternary-search-tree/*
 <br/>
 <br/>
 <br/>
-|           	|Time          |Space    |
-| ------------- |:-------------:| --------:|
+|           	  |Time             |Space       |
+| ------------- |:---------------:|-----------:|
 | Normal        | `O(K*L)`        | `O(N*L*R)` |
 | Redis         | `O(L)`          | `O(N*L*L)` |
 | Tenary        | `O(K*(L+log N))`| `O(N*L)`   |
