@@ -23,11 +23,11 @@ The purpose of this project is making a word filter system for dialogs that have
 <br/>
 <br/>
 <br/>
-| Age           | Time  | Food | Gold |
-| ------------  | ----  | ---  | ---  |
-| Feudal Age    | 02:10 |  500 |    0 |
-| Castle Age    | 02:40 |  800 |  200 |
-| Imperial Age  | 03:30 | 1000 |  800 |
+|               |Time             |Space       |
+| ------------- |:---------------:| ----------:|
+| Normal        | `O(K*L)`        | `O(N*L*R)` |
+| Redis         | `O(L)`          | `O(N*L*L)` |
+| Tenary        | `O(K*(L+log N))`| `O(N*L)`   |
 <br/>
 |           	  |Time             |Space       |
 | ------------- |:---------------:|-----------:|
