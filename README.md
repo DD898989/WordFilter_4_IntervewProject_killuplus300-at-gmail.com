@@ -48,13 +48,20 @@ R: size of alphabet<br/>
 ***Normal Trie*** ,although with time complexity `O(N*L)`, but K is depending on the dialog length( ~100), and the size of alphabet `R` can be set by us, so this project ***is implemented by Normal Trie***
 
 <br/>
+
 ## Implementation ##
-If we have only 26 english alphabet to be considered, the space complexity is `O(N*L*26)`, like the following picture showed:<br/>
+If we have only 26 english alphabet to be considered, the space complexity is `O(N*L*26)`, like the following picture showed:
+
 <br/>
-![](https://i.imgur.com/HKZjU9d.png) <br/>
+<br/>
+
+![](https://i.imgur.com/HKZjU9d.png) 
+
+<br/>
 *https://www.quora.com/What-is-the-best-way-to-implement-a-Trie-in-Java*
 <br/>
 <br/>
+
 But our system is for any languages, so the Unicode result R to be 65536, sure that would be hell huge space that is needed, so instead an Unicode Trie, we reduce the complexity to Binary Trie(R=2) and Byte Trie(R=256) to see which is better.<br/>
 
 
