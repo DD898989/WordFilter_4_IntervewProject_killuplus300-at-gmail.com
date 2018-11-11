@@ -24,7 +24,7 @@ The purpose of this project is making a word filter system for dialogs that have
 <br/>
 <br/>
 |               |Time             |Space       |
-| ------------- |:---------------:| ----------:|
+| ------------- |:---------------:|-----------:|
 | Normal        | `O(K*L)`        | `O(N*L*R)` |
 | Redis         | `O(L)`          | `O(N*L*L)` |
 | Tenary        | `O(K*(L+log N))`| `O(N*L)`   |
