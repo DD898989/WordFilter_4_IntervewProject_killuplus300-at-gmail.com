@@ -40,8 +40,7 @@ R: size of alphabet<br/>
 <br/>
 **Reids Trie** have space complexity `O(N*L*L)`, since we want the system to adapt arbitrary word length, so we consider `L` to be large, so Reids Trie is **out**<br/>
 <br/>
-**Normal Trie** ,although with time complexity `O(N*L)`, but K is depending on the dialog length( ~100), and the size of alphabet `R` can be set by us, so this project **is implemented by Normal Trie**
-<br/>
+**Normal Trie** ,although with time complexity `O(N*L)`, but K is depending on the dialog length( ~100), and the size of alphabet `R` can be set by us, so this project **is implemented by Normal Trie**<br/>
 
 
 ## Implementation ##
