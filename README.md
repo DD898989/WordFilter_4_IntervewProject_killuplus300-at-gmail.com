@@ -31,14 +31,6 @@ The purpose of this project is making a word filter system for dialogs that have
 | Tenary        | `O(K*(L+log N))`| `O(N*L)`   |
 
 <br/>
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-<br/>
-
 N: number of words<br/>
 L: average length of words<br/>
 K: number of matches<br/>
