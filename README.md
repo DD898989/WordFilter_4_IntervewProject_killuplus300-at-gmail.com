@@ -58,7 +58,9 @@ If we have only 26 english alphabet to be considered, the space complexity is `O
 ![](https://i.imgur.com/HKZjU9d.png) 
 
 <br/>
-*https://www.quora.com/What-is-the-best-way-to-implement-a-Trie-in-Java*
+
+*form https://www.quora.com/What-is-the-best-way-to-implement-a-Trie-in-Java*
+
 <br/>
 <br/>
 
