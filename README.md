@@ -89,7 +89,7 @@ filter cases:216000<br/>
 <br/>
 
 ## Conclusion ##
-Both the Binary Trie and Bity Trie are match the complexity evaluation we done before, but Bity Trie only a litter faster than Binary Trie and takes too much space, so the Binary Trie is consider to be the most efficient for the original purpose.
+Both the Binary Trie and Byte Trie are match the complexity evaluation we done before, but Byte Trie only a litter faster than Binary Trie and takes too much space, so the Binary Trie is consider to be the most efficient for the original purpose.
 <br/>
 <br/>
 <br/>
