@@ -151,10 +151,10 @@ int main()
 			if(line.length()<minLen)
 				continue;
 
-			for(int wordLen=maxLen;wordLen>=minLen;wordLen--)
+			for(int wordLen=minLen;wordLen<=maxLen;wordLen++)
 			{
 				if(line.length()<wordLen)
-					continue;
+					break;
 
 				for(int i=0;i<line.length()+1-wordLen;i++)
 				{
