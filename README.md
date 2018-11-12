@@ -37,7 +37,7 @@ K: number of matches<br/>
 R: size of alphabet<br/>
 <br/>
 
-***Tenary Trie*** is greatly infected by the order of the words that we insert, and it's not easy to implement an balanced-mechanism, so Tenary Trie is ***out***
+***Tenary Trie*** is greatly infected by the order of the words that we insert, and it's not easy to implement a balanced-mechanism, so Tenary Trie is ***out***
 
 <br/>
 
