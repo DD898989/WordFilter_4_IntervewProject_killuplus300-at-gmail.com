@@ -64,7 +64,7 @@ If we have only 26 english alphabet to be considered, the space complexity is `O
 <br/>
 <br/>
 
-But our system is for any languages, so the Unicode result R to be 65536, sure that would be hell huge space that is needed, so instead an Unicode Trie, we reduce the complexity to Binary Trie(R=2) and Byte Trie(R=256) to see which is better.<br/>
+But our system is for any languages, so the Unicode result R to be 65536, sure that would be hell huge space that is needed, so instead of an Unicode Trie, we reduce the complexity to Binary Trie(R=2) and Byte Trie(R=256) to see which is better.<br/>
 
 
 ## Analysis ##
