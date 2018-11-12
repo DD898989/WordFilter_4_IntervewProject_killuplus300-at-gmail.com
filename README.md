@@ -77,13 +77,13 @@ dialog length:500<br/>
 <br/>
 ![](https://i.imgur.com/HcpftLz.png) <br/>
 x: filter cases<br/>
-y: average finished time<br/>
+y: average finished time(sec)<br/>
 dialog length:500<br/>
 <br/>
 <br/>
 ![](https://i.imgur.com/5EofnaC.png) <br/>
 x: dialog length<br/>
-y: average finished time<br/>
+y: average finished time(sec)<br/>
 filter cases:216000<br/>
 <br/>
 <br/>
