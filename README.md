@@ -72,17 +72,17 @@ But our system is for any languages, so the Unicode result R to be 65536, sure t
 ![](https://i.imgur.com/yR8B93O.png) <br/>
 x: filter cases<br/>
 y: memory used(kb)<br/>
-dialog length:500<br/>
+dialog length(char):500<br/>
 <br/>
 <br/>
 ![](https://i.imgur.com/HcpftLz.png) <br/>
 x: filter cases<br/>
 y: average finished time(sec)<br/>
-dialog length:500<br/>
+dialog length(char):500<br/>
 <br/>
 <br/>
 ![](https://i.imgur.com/5EofnaC.png) <br/>
-x: dialog length<br/>
+x: dialog length(char)<br/>
 y: average finished time(sec)<br/>
 filter cases:216000<br/>
 <br/>
